@@ -282,7 +282,9 @@ header{
     }
     
  }
-
+@media only screen and (min-width: 768px){
+    .footer form{padding-top:0px}
+}
 /* Small devices (portrait tablets and large phones, 500px and up) */
 @media only screen and (min-width: 500px){
     .footer .logo-image{
