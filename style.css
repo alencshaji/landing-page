@@ -27,6 +27,8 @@ header{
 .links a:hover{
     opacity: 0.85;
 }
+.hide{
+display:flex !important}
 #btn{
     text-decoration: none;
     border-radius: 50px;
